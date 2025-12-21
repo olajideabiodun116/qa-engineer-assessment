@@ -1,4 +1,4 @@
-# Exploratory Testing Report - Saucedemo
+# Exploratory Testing Report
 
 **Application:** https://www.saucedemo.com  
 **Tester:** Olajide Abiodun  
