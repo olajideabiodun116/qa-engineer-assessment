@@ -246,7 +246,7 @@ newman run JSONPlaceholder-API-Tests.postman_collection.json
 | Google Sheets | Test cases in spreadsheet format | https://docs.google.com/spreadsheets/d/1upPndWg6b5MGKzuMY58Y4djVaYRlcfgwO2ekqS8cd9s/edit?gid=0#gid=0] |
 | Exploratory Report | 30-min exploratory testing findings | [manual-testing/exploratory-testing-report.md](manual-testing/exploratory-testing-report.md) |
 | Bug Reports | 4 documented bugs | [manual-testing/bug-report.md](manual-testing/bug-report.md) |
-| UI Tests | Selenium Java automation | [automation/ui-tests/](automation/ui-tests/) |
+| UI Tests | Selenium Java automation | [automation/ui-test/](automation/ui-test/) |
 | API Tests | Postman collection | [automation/api-test/](automation/api-test/) |
 | QA Thinking | Answers to assessment questions | [qa-thinking/answer.md](qa-thinking/answer.md) |
 
