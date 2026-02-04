@@ -58,8 +58,6 @@ This repository contains a comprehensive QA assessment demonstrating:
     - Edge cases: 1 test case
 - **Format:** Markdown table format
 
-**Google Sheets Link:** [Insert your Google Sheets link here]
-
 ---
 
 ### ✅ Task 2: Exploratory Testing
