@@ -1,7 +1,6 @@
 # QA Engineer Assessment - Complete Solution
 
 **Candidate:** Olajide Abiodun  
-**Date:** December 20, 2024  
 **Application Under Test:** Saucedemo (https://www.saucedemo.com) & JSONPlaceholder API (https://jsonplaceholder.typicode.com)
 
 ---
@@ -318,5 +317,3 @@ This assessment demonstrates comprehensive QA skills including:
 
 **Status:** Complete ✅
 
----
-**Assessment Completed:** December 20, 2024
